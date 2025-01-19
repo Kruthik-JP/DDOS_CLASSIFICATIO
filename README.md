@@ -1,4 +1,4 @@
-# DDOS_CLASSIFICATIO
+# DDOS_CLASSIFICATION
  DDoS classification using AIML involves detecting traffic patterns, such as high request volume or IP anomalies, to identify and mitigate malicious attacks on a network.
 # DDoS Detection and Mitigation System
 
