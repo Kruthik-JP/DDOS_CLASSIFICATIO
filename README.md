@@ -41,5 +41,6 @@ os
 
 Acknowledgments
 Scikit-learn for machine learning algorithms.
-TensorFlow for building neural network models.
+TensorFlow for building neural network models.![WhatsApp Image 2025-01-19 at 16 00 27_a7c57f3f](https://github.com/user-attachments/assets/356b2768-25a1-4d60-8afa-c1515128a9ef)
+
 Seaborn for data visualization
